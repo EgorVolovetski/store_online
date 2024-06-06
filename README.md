@@ -5,13 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 3.2.2
 
 * System dependencies
 
 * Configuration
 
-* Database creation
+* Database creation 
 
 * Database initialization
 
@@ -22,3 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+![image](https://github.com/EgorVolovetski/store_online/assets/113033903/d78b984b-6990-4269-bd14-8b679e989755)
